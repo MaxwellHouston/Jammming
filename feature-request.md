@@ -22,6 +22,6 @@ Now that we have the info we need, We can create a new component called AudioPla
 
 
 
-### CAVEATS
+## CAVEATS
 This approach of using the song previews was preferred to the other option of having the link to view the whole song in Spotify. Each track comes with that link in the JSON object but sending the user to another page is time consuming and detracts from our web app. Although the full song is available there, only a sample is required for the user  to catch the mood of the song and decide if it fits their playlist.
 
