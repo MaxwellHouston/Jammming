@@ -1,0 +1,18 @@
+.audio-container {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    bottom: 0;
+    right: 0;
+    height: 100px;
+    width: 30%;
+    background-color: rgba(50, 17, 132, .50);
+}
+
+img {
+    height: 100%;
+}
+
+audio{
+    margin-left: 1.3rem;
+}
